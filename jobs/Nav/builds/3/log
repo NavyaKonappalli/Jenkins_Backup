@@ -1,0 +1,9 @@
+Started by user [8mha:////4DhuIH4VlYV4Btg8B1QNsFbW7C5TKIbud/nVOFJ7cmGhAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzREgZp/dLi1CL9vMSyysTijKLU1Pjs/LzEgoLEnJxMAOUl1g7QAAAA[0mNavyashree Konappalli
+Running as SYSTEM
+Building remotely on [8mha:////4FURjfMx11gkhh5X+jGmDJACsb1VAN6MEQSDKvVhsLnbAAAAoh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgYx/eT83ILSktQifafSzJwUheDUorLUIgAzK14vywAAAA==[0mBuild Server (build_server) in workspace /home/jenkins/workspace/Nav
+[Nav] $ /bin/sh -xe /tmp/jenkins17169503115559206647.sh
++ ls
++ pwd
+/home/jenkins/workspace/Nav
+Triggering a new build of [8mha:////4DnxInAF9d9kec7gp9D29MFr1uXXSRhRAxr0HNLNtGXaAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/az8JH2/xDJDfQB8Hz7SvwAAAA==[0mNav1
+Finished: SUCCESS
