@@ -5,9 +5,9 @@ rm -rf caches/
 token="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"
 username="NavyaKonappalli"
 reponame="jenkins_backup"
-timestamp=`date+%d: %m: %Y`
+timestamp=`date`
 git status
-git remote set-url origin https://${token}@github.com/${username}/${repoName}.git
+git remote set-url origin https://github.com/NavyaKonappalli/jenkins_backup.git
 git add .
 git commit -m "jenkins_backup of today $timestamp"
 git push origin master
