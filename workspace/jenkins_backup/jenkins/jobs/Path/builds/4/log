@@ -1,0 +1,8 @@
+Started by user [8mha:////4DhuIH4VlYV4Btg8B1QNsFbW7C5TKIbud/nVOFJ7cmGhAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzREgZp/dLi1CL9vMSyysTijKLU1Pjs/LzEgoLEnJxMAOUl1g7QAAAA[0mNavyashree Konappalli
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/Path
+[Path] $ /bin/sh -xe /tmp/jenkins14954215629397570125.sh
++ ls /home/ubuntu
+ls: cannot open directory '/home/ubuntu': Permission denied
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

@@ -1,0 +1,9 @@
+Started by user [8mha:////4DhuIH4VlYV4Btg8B1QNsFbW7C5TKIbud/nVOFJ7cmGhAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzREgZp/dLi1CL9vMSyysTijKLU1Pjs/LzEgoLEnJxMAOUl1g7QAAAA[0mNavyashree Konappalli
+Running as SYSTEM
+Building on the built-in node in workspace /var/lib/jenkins/workspace/present_test
+[present_test] $ /bin/sh -xe /tmp/jenkins16419801198444850102.sh
++ ls -l
+total 0
++ pwd
+/var/lib/jenkins/workspace/present_test
+Finished: SUCCESS

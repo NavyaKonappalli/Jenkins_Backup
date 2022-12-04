@@ -1,0 +1,23 @@
+Started by user [8mha:////4DhuIH4VlYV4Btg8B1QNsFbW7C5TKIbud/nVOFJ7cmGhAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzREgZp/dLi1CL9vMSyysTijKLU1Pjs/LzEgoLEnJxMAOUl1g7QAAAA[0mNavyashree Konappalli
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/Nav1
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/lib/jenkins/workspace/Nav1/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/NavyaKonappalli/Repo.git # timeout=10
+Fetching upstream changes from https://github.com/NavyaKonappalli/Repo.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.34.1'
+ > git fetch --tags --force --progress -- https://github.com/NavyaKonappalli/Repo.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 6f244207d66ce75cd2b5eebaff1a3a1afe645869 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 6f244207d66ce75cd2b5eebaff1a3a1afe645869 # timeout=10
+Commit message: "Merge pull request #3 from NavyaKonappalli/Banju"
+ > git rev-list --no-walk 6f244207d66ce75cd2b5eebaff1a3a1afe645869 # timeout=10
+[Nav1] $ /bin/sh -xe /tmp/jenkins7926973396542760793.sh
++ git clone https://github.com/NavyaKonappalli/Repo.git
+fatal: destination path 'Repo' already exists and is not an empty directory.
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
